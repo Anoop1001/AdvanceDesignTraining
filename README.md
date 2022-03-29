@@ -32,3 +32,5 @@ PHAME for OOP Concepts - In his object model, Grady Booch mentions Abstraction, 
 https://en.wikipedia.org/wiki/Software_design
 
 High Cohesion and Loosely coupled
+
+https://www.slideshare.net/gvespucci/design-smells?next_slideshow=1404634
