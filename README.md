@@ -24,5 +24,7 @@ Technical Debt
 OOP (polymorphism and inheritance are language specific)
 -Abstraction
 -Encapsulation
--Modularization
--Hierrachy
+-Modularization (Grouping abstractions)
+-Hierrachy (Ordering Abstractions)
+
+PHAME for OOP Concepts
