@@ -27,4 +27,4 @@ OOP (polymorphism and inheritance are language specific)
 -Modularization (Grouping abstractions)
 -Hierrachy (Ordering Abstractions)
 
-PHAME for OOP Concepts
+PHAME for OOP Concepts - In his object model, Grady Booch mentions Abstraction, Encapsulation, Modularisation, and Hierarchy as fundamental software design principles.[4] The acronym PHAME (Principles of Hierarchy, Abstraction, Modularisation, and Encapsulation) is sometimes used to refer to these four fundamental principles.[5]
