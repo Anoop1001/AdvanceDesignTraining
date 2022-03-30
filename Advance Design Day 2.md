@@ -48,5 +48,14 @@ Remove the 3 C's
 - Complexity (Remove magic numbers)
 - Cleverness
 
-(prefer composition over inheritance)[https://stackoverflow.com/a/49016/7198636]
+[Prefer composition over inheritance](https://stackoverflow.com/a/49016/7198636)
+
+## Refactor to patterns
+
+Pattern --> Expresses relationshit between Context - Probelm - Solution
+
+Patterns are generic solutions to recurring design problems.
+
+Learn observer pattern.
+
 
