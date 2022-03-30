@@ -5,11 +5,17 @@ Software Engineering(Managing Complexity) VS Software development(Future scalabi
 Design(Behavior low level) vs Architecture(High Level structure)
 
 Design Quality
+
 -maintainability
+
 -reusability
+
 -changeability
+
 -understandability
+
 -flexibility
+
 -extensibility
 
 Design Quality impacts software Quality and indicated technical debt.
