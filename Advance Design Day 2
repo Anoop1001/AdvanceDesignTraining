@@ -23,3 +23,5 @@ Broken Hierarchy (Reversing parent child)
 Rebellious hierarchy --> throwing not implemented exception in child class(LSP violation)
 Unnecessary Hierarchy
 Missing Hierarchy
+
+Refactoring for Software Design Smells (Book by Siemens Author)
