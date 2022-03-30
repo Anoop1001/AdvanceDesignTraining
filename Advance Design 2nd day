@@ -4,3 +4,22 @@
 - Localize related data and methods
 - Create acyclic dependencies
 - Limit dependencies
+
+Broken modularization
+Insufficient modularization
+Cyclically dependent modularization
+Hub like modularization
+
+Hierarchy smells
+
+Apply Meaningful classification
+Apply Meaningful classification
+Ensure Substitutability(Liskovs Substitute Principle) -- Dog --> HasLegs() <-- Chair
+Avoid redundant paths
+Ensure proper ordering
+
+
+Broken Hierarchy (Reversing parent child)
+Rebellious hierarchy --> throwing not implemented exception in child class(LSP violation)
+Unnecessary Hierarchy
+Missing Hierarchy
