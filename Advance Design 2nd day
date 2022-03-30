@@ -1,0 +1,6 @@
+## Principles of modularization
+
+- Decompose abstractionto manageable size
+- Localize related data and methods
+- Create acyclic dependencies
+- Limit dependencies
