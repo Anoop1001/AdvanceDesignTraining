@@ -46,3 +46,31 @@ OO Metrics
 - LCOM (Lack of cohesion of methods) - All the methods use all its instance fields
 - CBO (Coupling between Object classes)
 
+- Cyclomatic complexity
+
+![image](https://user-images.githubusercontent.com/27200911/160979002-7aca909a-4e54-4245-a587-bbbe97b95874.png)
+
+NDepend
+Source Monitor
+Designite
+
+#### Craftsmanship (Metaphor)
+ "making things work is the minimum expectation from someone who is paid for it."
+ 
+ "How it is done is more important than getting it done"
+ 
+ "A little extra work wonders"
+ 
+ - Tech blogs and Katas
+
+References :
+
+- Clean code
+- Working with legacy code(Robert C. Martin)
+- Clean Coder : A code of conduct for professional programmers
+- Refactoring to Patterns
+- Refactoring (Martin Fowler)
+- Object Oriented Analysis and Design with Applications, Grady booch.
+- How google tests Software (Help me test like google)
+- How we test software at Microsoft
+- 31 days refactoring for C# and Java(Los Techies)
