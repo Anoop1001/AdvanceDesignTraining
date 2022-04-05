@@ -74,3 +74,76 @@ References :
 - How google tests Software (Help me test like google)
 - How we test software at Microsoft
 - 31 days refactoring for C# and Java(Los Techies)
+
+Extended 
+## Design Principles
+
+Design quality attributes,
+
+1. Understandibility
+2. Changeability
+3. Extendebility
+4. Reusability
+5. Testability
+6. Reliability
+
+Design princinples by Grady Booch
+
+PHAME - Abstraction, Encapsulation, Modularization, Hierarchy
+
+## "Design as a Process" vs "Design as a Product"
+
+High level design
+Detailed Design
+
+Artifacts
+ Need to learn about aggregation
+ 
+Cohesive means sigle responsibility.
+
+Odors of rotting software
+- Rigidity
+- Fragility
+- Immobility
+- Viscosity (Software & Environment)
+- Needless complexity
+- Needless Repetition
+- Opacity
+
+- Premature abstraction
+
+## SOLID Priinciples
+
+#### Single Responsibility : 
+ Modem example
+#### Open Closed Principle(OCP) : 
+ Shape example - Program to the what not on how. Strategy pattern by making loosely coupled. Inheritance when everything is required in child classes.
+#### Liskov's substitution : 
+ If it looks like a duck, quacks like a duck but needs battery then it is probably wrong abstraction. Throw not implemented exception is a vioation. square and rectangle. Logically implement all the methods from parent to child. Validity is not intrinsic - Behavior counts.
+ Book and eBook example.
+ is-a(Inheritance) vs has-a(Association)
+#### Interface Segregation
+Fat interfaces should be simplified. Animal example. Animal can't have bark, fly etc. 
+[Example](https://www.codeproject.com/Articles/93369/How-I-explained-OOD-to-my-wife)
+#### Dependency inversion
+High level module should not depend on low level module. Should depend on abstractions.
+Abstractions should not depend on details.
+Example : Soldering wire to bulb instead of having an interface
+Button/ Switch -> Button Server -> Fan/Lamp
+Dependency injection(Aggregation with base reference) is dependent on Dependency inversion(Uses abstraction).
+ 
+ 
+## Design Patterns
+Every design pattern is based on SOLID principles.
+
+#### Factory Method : 
+Abstraction in some way(Not necessarily parent child) -> Implements Dependency inversion
+#### Abstract factory :
+Factories of factories : Family of classes. Example : Windows and Linux OS and widgets
+Creational pattern only creates. Deletion we need to take care.
+#### Observer pattern :
+Subject [Update] - Observer [Update] - Concreteobserver [Update]
+
+
+
+
